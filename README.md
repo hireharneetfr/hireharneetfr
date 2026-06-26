@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Cybersecurity student driven by curiosity and a passion for securing the digital world.  <br>Always exploring new technologies, building projects, and sharpening my skills every day.<br><br>- 🛡️ Interested in Cybersecurity, Digital Forensics & Ethical Hacking<br>- 💻 Building projects with Python, SQL, HTML, CSS & JavaScript<br>- 🌱 Currently learning API Security, Web Security & Network Security<br><br>✨ Always learning, always building, one commit at a time.
+>Cybersecurity student driven by curiosity and a passion for securing the digital world.  <br>Always exploring new technologies, building projects, and sharpening my skills every day.<br><br>- 🛡️ Interested in Cybersecurity, Digital Forensics & Ethical Hacking<br>- 💻 Building projects with Python, SQL, HTML, CSS & JavaScript<br>- 🌱 Currently learning API Security, Web Security & Network Security<br><br>✨ Always learning, always building, one commit at a time.
 
 
 ## 🌐 Socials:
