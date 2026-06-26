@@ -17,22 +17,27 @@
 ---
 
 ### 🔒 Cybersecurity
+### 🔒 Cybersecurity
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E5EAA?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=zaproxy&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-
----
-
-### 🕵️ Digital Forensics & Malware Analysis
-![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge)
+![MXToolbox](https://img.shields.io/badge/MXToolbox-0078D4?style=for-the-badge)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-![Hybrid Analysis](https://img.shields.io/badge/Hybrid_Analysis-1976D2?style=for-the-badge)
-![ANY.RUN](https://img.shields.io/badge/ANY.RUN-FF6B00?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-555555?style=for-the-badge)
+![Netcat](https://img.shields.io/badge/Netcat-008000?style=for-the-badge)
+![CertUtil](https://img.shields.io/badge/CertUtil-0078D4?style=for-the-badge)
+![CFF Explorer](https://img.shields.io/badge/CFF_Explorer-5C2D91?style=for-the-badge)
+![FLOSS](https://img.shields.io/badge/FLOSS-FFB000?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=for-the-badge)
+![Joe Sandbox](https://img.shields.io/badge/Joe_Sandbox-1E88E5?style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge)
 
 ---
 
