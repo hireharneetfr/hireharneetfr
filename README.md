@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/hireharneetfr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harneetkour0280@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harneetkour0280@gmail.com)
 
 # 💻 Tech Stack
 
@@ -16,7 +18,6 @@
 
 ---
 
-### 🔒 Cybersecurity
 ### 🔒 Cybersecurity
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -79,10 +80,6 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hireharneetfr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=hireharneetfr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
